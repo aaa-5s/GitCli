@@ -3,3 +3,4 @@ bossbossbossbossbossbossbossbossbossbossbossbossbossbossbosbossbossbossbossbossb
 hi boss
 ぷる
 aaa5
+README.mdに追記(コミットメッセージ修正)
